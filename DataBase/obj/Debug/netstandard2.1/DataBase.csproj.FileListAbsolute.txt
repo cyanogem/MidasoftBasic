@@ -1,0 +1,10 @@
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\obj\Debug\netstandard2.1\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\obj\Debug\netstandard2.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\obj\Debug\netstandard2.1\DataBase.AssemblyInfo.cs
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\obj\Debug\netstandard2.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\bin\Debug\netstandard2.1\DataBase.deps.json
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\bin\Debug\netstandard2.1\DataBase.dll
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\bin\Debug\netstandard2.1\DataBase.pdb
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\obj\Debug\netstandard2.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\obj\Debug\netstandard2.1\DataBase.dll
+C:\Users\Jairo Sanabria\source\repos\MidaSoftBasic\DataBase\obj\Debug\netstandard2.1\DataBase.pdb
